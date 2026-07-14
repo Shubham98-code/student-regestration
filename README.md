@@ -1,0 +1,2 @@
+# student-regestration
+registration page
